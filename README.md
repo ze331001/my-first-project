@@ -1,2 +1,2 @@
-# my-first-project
-这是我在 GitHub 上的第一个项目，测试测试测试
+# About my first project on GitHub
+不知道该写点什么就随便写点东西测试测试
